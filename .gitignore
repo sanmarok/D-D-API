@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 launch.json
+pyvenv.cfg
